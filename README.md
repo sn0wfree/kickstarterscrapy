@@ -1,7 +1,7 @@
 
 
 # Kickstarterscrapy
-https://travis-ci.org/sn0wfree/spider_for_kickstarterCFP.svg?branch=master
+[image][https://travis-ci.org/sn0wfree/spider_for_kickstarterCFP.svg?branch=master]
 -------------------------------------------------
 ```
 This python file is just for collecting kickstarter crowdfunding platform data!!
