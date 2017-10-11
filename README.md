@@ -1,6 +1,6 @@
 
 
-# Kickstarterscrapy
+# Kickstarter-spider
 ![image](https://travis-ci.org/sn0wfree/spider_for_kickstarterCFP.svg?branch=master)
 -------------------------------------------------
 ```
